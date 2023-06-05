@@ -4,5 +4,16 @@ h1 {
     font-weight: normal;
 }
 :root {
-  color-scheme: light dark; /* both supported */
+  color-scheme: dark; /* both supported */
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #eee;
+    background: #121212;
+  }
+ 
+  a {
+    color: #809fff;
+  }
 }
