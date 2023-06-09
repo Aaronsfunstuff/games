@@ -7,7 +7,7 @@ In my personal life, I strive to be kind, empathetic, and understanding towards 
 
 Overall, I am just a very smart person who is trying to make the most out of life. I am grateful for all of the opportunities that I have had, and I am excited to see what the future holds. Thanks for taking the time to learn a little bit about me!
 
-#Stuff about website
+# Stuff about website
 I recently launched my own website and I’m so excited to share it with the world! It’s a platform where you can play games and enjoy your time. One of the things I love most about my website is that it’s completely customizable, so I can make it look and feel exactly the way I want it to. I’ve spent countless hours designing and tweaking it to make sure it’s user-friendly and visually appealing. I hope that visitors to my site will find it informative, engaging, and enjoyable to explore. This is a website for playing video games because you need it after you're done with your school work or just want to play games and pass the time quickly. I hope you’ll find something here that resonates with you. Thank you for visiting!
 
 p.s More games coming soon!;-);-)
